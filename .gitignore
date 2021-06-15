@@ -16,6 +16,7 @@
 .DS_Store
 .idea
 WIP-distill_examples/sampleData/*
+WIP-distill_examples/.ipynb_checkpoints/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
